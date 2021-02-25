@@ -1,0 +1,6 @@
+org\openmrs\module\loginaudit\LoginauditActivator.class
+org\openmrs\module\loginaudit\api\impl\LoginauditImpl.class
+org\openmrs\module\loginaudit\LoginauditConfig.class
+org\openmrs\module\loginaudit\api\LoginauditService.class
+org\openmrs\module\loginaudit\api\dao\LoginauditDao.class
+org\openmrs\module\loginaudit\LoginUser.class

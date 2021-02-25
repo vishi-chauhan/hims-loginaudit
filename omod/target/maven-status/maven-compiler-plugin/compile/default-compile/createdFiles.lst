@@ -1,0 +1,2 @@
+org\openmrs\module\loginaudit\web\controller\LoginauditController.class
+org\openmrs\module\loginaudit\extension\html\AdminList.class
